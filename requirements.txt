@@ -1,0 +1,11 @@
+mediapipe
+opencv-python
+numpy
+matplotlib
+pygame
+pyserial
+librosa
+pydub
+torch
+torchaudio
+facial-emotion-recognition
