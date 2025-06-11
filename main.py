@@ -63,15 +63,20 @@ def main():
     last_freq_perc = freq_perc
     last_speed_perc = speed_perc
 
-    gesture_text = ""  # متن ژست برای نمایش روی تصویر
-
+    gesture_text = ""
     last_action_time = 0
-    action_interval = 3  # ثانیه بین تغییرات آهنگ
-    last_track_action = None  # "next" یا "prev" یا None
-
-    # اضافه شده برای نمایش پیام تغییر آهنگ به مدت 2 ثانیه
+    action_interval = 3
+    last_track_action = None
     gesture_text_show_time = 0
-    gesture_text_duration = 2  # ثانیه
+    gesture_text_duration = 2
+
+    current_voice = "male"
+    four_held = False
+    four_hold_start = None
+    last_four_time = 0
+
+    voice_change_text = ""
+    voice_change_time = 0
 
     while True:
         success, img = cap.read()
@@ -80,18 +85,15 @@ def main():
 
         img = detector.find_hands(img)
         allHands = detector.get_landmarks(img)
-
-        # مقدار پیش‌فرض متن ژست
         gesture_text = ""
+        current_time = time.time()
 
         if len(allHands) == 2:
-            # به‌روزرسانی فرکانس و سرعت فقط وقتی دو دست هست
             freq_perc = gesture_ctrl.get_distance_percentage(allHands[0])
             speed_perc = gesture_ctrl.get_distance_percentage(allHands[1])
             last_freq_perc = freq_perc
             last_speed_perc = speed_perc
 
-            # فاصله شست‌ها برای ولوم
             hand1_x = np.mean([pt[1] for pt in allHands[0]])
             hand2_x = np.mean([pt[1] for pt in allHands[1]])
 
@@ -105,57 +107,56 @@ def main():
             dist = gesture_ctrl.distance(left_thumb, right_thumb)
             vol_perc = np.interp(dist, [50, 300], [0, 100])
             vol_perc = max(0, min(vol_perc, 100))
-
-            # وقتی دو دست هست، فرمان تغییر آهنگ غیرفعال است
             last_track_action = None
 
         elif len(allHands) == 1:
-            # فقط یک دست هست
             freq_perc = last_freq_perc
             speed_perc = last_speed_perc
 
             fingers_count = gesture_ctrl.count_fingers(allHands[0])
-            current_time = time.time()
 
             if fingers_count == 5:
                 gesture_text = "Pause"
             elif fingers_count == 0:
                 gesture_text = "Play"
 
-            # فرمان آهنگ بعدی (دو انگشت) یا قبلی (سه انگشت)
             if fingers_count == 2:
                 if last_track_action != "next" or (current_time - last_action_time) > action_interval:
                     last_action_time = current_time
                     last_track_action = "next"
                     gesture_text = "Next Track"
-                    gesture_text_show_time = current_time  # شروع زمان نمایش پیام
-                    # اینجا کد رفتن به آهنگ بعدی رو قرار بده
+                    gesture_text_show_time = current_time
 
             elif fingers_count == 3:
                 if last_track_action != "prev" or (current_time - last_action_time) > action_interval:
                     last_action_time = current_time
                     last_track_action = "prev"
                     gesture_text = "Previous Track"
-                    gesture_text_show_time = current_time  # شروع زمان نمایش پیام
-                    # اینجا کد برگشت به آهنگ قبلی رو قرار بده
+                    gesture_text_show_time = current_time
 
+            elif fingers_count == 4:
+                if not four_held:
+                    four_hold_start = current_time
+                    four_held = True
+                elif current_time - four_hold_start >= 2 and (current_time - last_four_time > 2):
+                    current_voice = "female" if current_voice == "male" else "male"
+                    voice_change_text = f"Voice changed to: {current_voice.upper()}"
+                    voice_change_time = current_time
+                    last_four_time = current_time
             else:
-                # اگر تعداد انگشتان 1، 4 یا غیره بود فرمان تغییر آهنگ لغو می‌شود
+                four_held = False
+                four_hold_start = None
                 last_track_action = None
 
         else:
-            # دست نشان داده نشده؛ مقادیر قبلی باقی بماند
             freq_perc = last_freq_perc
             speed_perc = last_speed_perc
             last_track_action = None
 
-        # پاک کردن پیام تغییر آهنگ بعد از 2 ثانیه
-        current_time = time.time()
         if current_time - gesture_text_show_time > gesture_text_duration:
             if gesture_text in ["Next Track", "Previous Track"]:
                 gesture_text = ""
 
-        # رسم نوارها و متن‌ها
         draw_progress_bar_vertical(img, freq_perc, x=50, y=120, color=(0, 150, 255))
         cv2.putText(img, 'Frequency', (45, 100), cv2.FONT_HERSHEY_SIMPLEX, 1.2, (0, 150, 255), 3)
         cv2.putText(img, freq_label(freq_perc), (10, 490), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 150, 255), 2)
@@ -167,10 +168,13 @@ def main():
 
         draw_progress_bar_horizontal(img, vol_perc, y=50, color=(255, 100, 255))
 
-        # نمایش متن ژست روی تصویر (وسط پایین)
         if gesture_text:
             cv2.putText(img, gesture_text, (img.shape[1] // 2 - 150, img.shape[0] - 50),
                         cv2.FONT_HERSHEY_SIMPLEX, 1.3, (0, 255, 255), 3, cv2.LINE_AA)
+
+        if current_time - voice_change_time < 2:
+            cv2.putText(img, voice_change_text, (img.shape[1] // 2 - 200, img.shape[0] - 90),
+                        cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 0), 3, cv2.LINE_AA)
 
         cv2.imshow("Hand Gesture Frequency & Speed Control", img)
 

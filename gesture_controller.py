@@ -22,7 +22,6 @@ class GestureController:
         fingers = []
         tips = [4, 8, 12, 16, 20]
 
-        # شست
         if hand_landmarks[tips[0]][1] > hand_landmarks[tips[0] - 1][1]:
             fingers.append(1)
         else:
@@ -37,14 +36,13 @@ class GestureController:
         totalFingers = sum(fingers)
 
         if totalFingers == 0:
-            return "FIST"  # ✊
+            return "FIST"
         elif totalFingers == 5:
-            return "FIVE"  # ✋
+            return "FIVE"
         else:
             return "UNKNOWN"
 
     def count_fingers(self, hand_landmarks):
-        # تعداد انگشتان باز را شمارش می‌کند
         fingers = []
         tips = [4, 8, 12, 16, 20]
 
