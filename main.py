@@ -13,8 +13,8 @@ def draw_progress_bar_vertical(img, perc, x=50, y=150, w=40, h=300, color=(0, 25
 
 
 def draw_progress_bar_horizontal(img, perc, y=50, h=30, color=(255, 100, 255)):
-    w = 300
-    x = (img.shape[1] - w) // 2
+    w = 300  # عرض نوار ولوم
+    x = (img.shape[1] - w) // 2  # وسط عرض تصویر
     cv2.rectangle(img, (x, y), (x + w, y + h), (255, 255, 255), 3)
     fill = int((perc / 100) * w)
     cv2.rectangle(img, (x, y), (x + fill, y + h), color, cv2.FILLED)
@@ -56,6 +56,14 @@ def main():
     detector = HandDetector(maxHands=2)
     gesture_ctrl = GestureController()
 
+    freq_perc = 50
+    speed_perc = 50
+    vol_perc = 70
+    last_freq_perc = freq_perc
+    last_speed_perc = speed_perc
+
+    gesture_text = ""  # متن ژست برای نمایش روی تصویر
+
     while True:
         success, img = cap.read()
         if not success:
@@ -64,16 +72,14 @@ def main():
         img = detector.find_hands(img)
         allHands = detector.get_landmarks(img)
 
-        freq_perc = 50
-        speed_perc = 50
-        vol_perc = 70
-
-        if len(allHands) >= 1:
-            freq_perc = gesture_ctrl.get_distance_percentage(allHands[0])
-        if len(allHands) >= 2:
-            speed_perc = gesture_ctrl.get_distance_percentage(allHands[1])
+        gesture_text = ""
 
         if len(allHands) == 2:
+            freq_perc = gesture_ctrl.get_distance_percentage(allHands[0])
+            speed_perc = gesture_ctrl.get_distance_percentage(allHands[1])
+            last_freq_perc = freq_perc
+            last_speed_perc = speed_perc
+
             hand1_x = np.mean([pt[1] for pt in allHands[0]])
             hand2_x = np.mean([pt[1] for pt in allHands[1]])
 
@@ -88,14 +94,20 @@ def main():
             vol_perc = np.interp(dist, [50, 300], [0, 100])
             vol_perc = max(0, min(vol_perc, 100))
 
-        # کنترل پخش با ژست ✋ و ✊
-        if len(allHands) == 1:
-            lmList = allHands[0]
-            if gesture_ctrl.is_hand_open(lmList):
-                cv2.putText(img, "Pause", (250, 440), cv2.FONT_HERSHEY_SIMPLEX, 1.5, (0, 0, 255), 4)
-            elif gesture_ctrl.is_fist(lmList):
-                cv2.putText(img, "Play", (250, 440), cv2.FONT_HERSHEY_SIMPLEX, 1.5, (0, 255, 0), 4)
+        elif len(allHands) == 1:
+            gesture = gesture_ctrl.get_hand_gesture(allHands[0])
+            if gesture == "FIVE":
+                gesture_text = "Pause"
+            elif gesture == "FIST":
+                gesture_text = "Play"
+            freq_perc = last_freq_perc
+            speed_perc = last_speed_perc
 
+        else:
+            freq_perc = last_freq_perc
+            speed_perc = last_speed_perc
+
+        # رسم نوارها و متن‌ها
         draw_progress_bar_vertical(img, freq_perc, x=50, y=120, color=(0, 150, 255))
         cv2.putText(img, 'Frequency', (45, 100), cv2.FONT_HERSHEY_SIMPLEX, 1.2, (0, 150, 255), 3)
         cv2.putText(img, freq_label(freq_perc), (10, 490), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 150, 255), 2)
@@ -106,6 +118,11 @@ def main():
                     (0, 255, 150), 2)
 
         draw_progress_bar_horizontal(img, vol_perc, y=50, color=(255, 100, 255))
+
+        # نمایش متن ژست روی تصویر (وسط پایین)
+        if gesture_text:
+            cv2.putText(img, gesture_text, (img.shape[1]//2 - 100, img.shape[0] - 50),
+                        cv2.FONT_HERSHEY_SIMPLEX, 1.5, (0, 255, 255), 3, cv2.LINE_AA)
 
         cv2.imshow("Hand Gesture Frequency & Speed Control", img)
 
