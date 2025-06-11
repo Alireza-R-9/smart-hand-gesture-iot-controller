@@ -3,6 +3,7 @@ import numpy as np
 import time
 from hand_detector import HandDetector
 from gesture_controller import GestureController
+from music_controller import MusicController
 
 
 def draw_progress_bar_vertical(img, perc, x=50, y=150, w=40, h=300, color=(0, 255, 0)):
@@ -56,6 +57,7 @@ def main():
     cap = cv2.VideoCapture(0)
     detector = HandDetector(maxHands=2)
     gesture_ctrl = GestureController()
+    music_ctrl = MusicController("music/")
 
     freq_perc = 50
     speed_perc = 50
@@ -107,6 +109,13 @@ def main():
             dist = gesture_ctrl.distance(left_thumb, right_thumb)
             vol_perc = np.interp(dist, [50, 300], [0, 100])
             vol_perc = max(0, min(vol_perc, 100))
+
+            music_ctrl.set_volume(vol_perc / 100)
+
+            # ⬇️ کنترل سرعت پخش موسیقی
+            speed = np.interp(speed_perc, [0, 100], [0.5, 2.0])
+            music_ctrl.set_playback_speed(speed)
+
             last_track_action = None
 
         elif len(allHands) == 1:
@@ -114,26 +123,26 @@ def main():
             speed_perc = last_speed_perc
 
             fingers_count = gesture_ctrl.count_fingers(allHands[0])
-
             if fingers_count == 5:
+                music_ctrl.pause()
                 gesture_text = "Pause"
             elif fingers_count == 0:
+                music_ctrl.play()
                 gesture_text = "Play"
-
-            if fingers_count == 2:
+            elif fingers_count == 2:
                 if last_track_action != "next" or (current_time - last_action_time) > action_interval:
+                    music_ctrl.next_track()
                     last_action_time = current_time
                     last_track_action = "next"
                     gesture_text = "Next Track"
                     gesture_text_show_time = current_time
-
             elif fingers_count == 3:
                 if last_track_action != "prev" or (current_time - last_action_time) > action_interval:
+                    music_ctrl.previous_track()
                     last_action_time = current_time
                     last_track_action = "prev"
                     gesture_text = "Previous Track"
                     gesture_text_show_time = current_time
-
             elif fingers_count == 4:
                 if not four_held:
                     four_hold_start = current_time

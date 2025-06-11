@@ -1,6 +1,5 @@
 import math
 
-
 class GestureController:
     def __init__(self):
         self.min_distance = 50
