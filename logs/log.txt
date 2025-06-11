@@ -1,0 +1,565 @@
+2025-06-11 00:23:11 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:12 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:13 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:14 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:15 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:16 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: LED1 ON | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:17 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: LED1 ON | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: LED2 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:18 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: LED2 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: LED1 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Reset | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:19 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: LED2 ON | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:20 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: LED2 ON | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: False | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: LED1 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:21 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: LED2 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:22 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:23 | Gesture: LED2 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: LED1 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:24 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: LED2 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: LED1 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:25 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: LED1 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: LED2 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:26 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: LED1 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:27 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: LED2 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:28 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: LED1 ON | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: Idle | LED1: True | LED2: True | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:29 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:30 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:31 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: Reset | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: Idle | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:32 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:33 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:34 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:35 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:36 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:37 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:38 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:38 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:38 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
+2025-06-11 00:23:38 | Gesture: No Hand | LED1: False | LED2: False | Brightness: 100 | Color: white
