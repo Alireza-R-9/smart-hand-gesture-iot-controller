@@ -13,8 +13,8 @@ def draw_progress_bar_vertical(img, perc, x=50, y=150, w=40, h=300, color=(0, 25
 
 
 def draw_progress_bar_horizontal(img, perc, y=50, h=30, color=(255, 100, 255)):
-    w = 300  # عرض نوار ولوم
-    x = (img.shape[1] - w) // 2  # وسط عرض تصویر
+    w = 300
+    x = (img.shape[1] - w) // 2
     cv2.rectangle(img, (x, y), (x + w, y + h), (255, 255, 255), 3)
     fill = int((perc / 100) * w)
     cv2.rectangle(img, (x, y), (x + fill, y + h), color, cv2.FILLED)
@@ -64,24 +64,22 @@ def main():
         img = detector.find_hands(img)
         allHands = detector.get_landmarks(img)
 
-        freq_perc = 0
-        speed_perc = 0
-        vol_perc = 70  # مقدار پیش‌فرض ولوم اگر فقط یک دست بود
+        freq_perc = 50
+        speed_perc = 50
+        vol_perc = 70
 
         if len(allHands) >= 1:
             freq_perc = gesture_ctrl.get_distance_percentage(allHands[0])
         if len(allHands) >= 2:
             speed_perc = gesture_ctrl.get_distance_percentage(allHands[1])
 
-        # ولوم بر اساس فاصله بین شست دست چپ و دست راست
         if len(allHands) == 2:
-            # مشخص کردن دست چپ و راست بر اساس x هر دست
             hand1_x = np.mean([pt[1] for pt in allHands[0]])
             hand2_x = np.mean([pt[1] for pt in allHands[1]])
 
             if hand1_x < hand2_x:
-                left_thumb = allHands[0][4][1:]  # شست دست چپ
-                right_thumb = allHands[1][4][1:]  # شست دست راست
+                left_thumb = allHands[0][4][1:]
+                right_thumb = allHands[1][4][1:]
             else:
                 left_thumb = allHands[1][4][1:]
                 right_thumb = allHands[0][4][1:]
@@ -90,18 +88,23 @@ def main():
             vol_perc = np.interp(dist, [50, 300], [0, 100])
             vol_perc = max(0, min(vol_perc, 100))
 
-        # رسم نوار فرکانس (عمودی، چپ)
+        # کنترل پخش با ژست ✋ و ✊
+        if len(allHands) == 1:
+            lmList = allHands[0]
+            if gesture_ctrl.is_hand_open(lmList):
+                cv2.putText(img, "Pause", (250, 440), cv2.FONT_HERSHEY_SIMPLEX, 1.5, (0, 0, 255), 4)
+            elif gesture_ctrl.is_fist(lmList):
+                cv2.putText(img, "Play", (250, 440), cv2.FONT_HERSHEY_SIMPLEX, 1.5, (0, 255, 0), 4)
+
         draw_progress_bar_vertical(img, freq_perc, x=50, y=120, color=(0, 150, 255))
         cv2.putText(img, 'Frequency', (45, 100), cv2.FONT_HERSHEY_SIMPLEX, 1.2, (0, 150, 255), 3)
         cv2.putText(img, freq_label(freq_perc), (10, 490), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 150, 255), 2)
 
-        # رسم نوار سرعت (عمودی، راست)
         draw_progress_bar_vertical(img, speed_perc, x=img.shape[1] - 90, y=120, color=(0, 255, 150))
         cv2.putText(img, 'Speed', (img.shape[1] - 140, 100), cv2.FONT_HERSHEY_SIMPLEX, 1.2, (0, 255, 150), 3)
         cv2.putText(img, speed_label(speed_perc), (img.shape[1] - 280, 490), cv2.FONT_HERSHEY_SIMPLEX, 0.9,
                     (0, 255, 150), 2)
 
-        # رسم نوار ولوم (افقی، وسط بالا)
         draw_progress_bar_horizontal(img, vol_perc, y=50, color=(255, 100, 255))
 
         cv2.imshow("Hand Gesture Frequency & Speed Control", img)

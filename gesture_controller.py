@@ -1,6 +1,5 @@
 import math
 
-
 class GestureController:
     def __init__(self):
         # برای ناحیه فاصله‌ای که مقدار درصد را محاسبه می‌کنیم
@@ -28,5 +27,12 @@ class GestureController:
         dist = self.distance(thumb, index_finger)
         # تبدیل فاصله به درصد بین 0 تا 100
         perc = (dist - self.min_distance) / (self.max_distance - self.min_distance) * 100
-        perc = max(0, min(perc, 100))  # محدود کردن به بازه 0 تا 100
-        return perc
+        return max(0, min(perc, 100))  # محدود کردن به بازه 0 تا 100
+
+    def is_fist(self, lmList):
+        """مشت بسته: همه انگشت‌ها خم شده‌اند (سر انگشت‌ها زیر مفصل دوم هستند)"""
+        return all(lmList[i][2] > lmList[i - 2][2] for i in [8, 12, 16, 20])
+
+    def is_hand_open(self, lmList):
+        """کف دست باز: همه انگشت‌ها کشیده‌اند (سر انگشت‌ها بالای مفصل دوم هستند)"""
+        return all(lmList[i][2] < lmList[i - 2][2] for i in [8, 12, 16, 20])
