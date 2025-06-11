@@ -1,36 +1,32 @@
 import math
-import numpy as np
 
 
 class GestureController:
-    def __init__(self, min_dist=30, max_dist=220):
-        self.min_dist = min_dist
-        self.max_dist = max_dist
+    def __init__(self):
+        # برای ناحیه فاصله‌ای که مقدار درصد را محاسبه می‌کنیم
+        self.min_distance = 50   # حداقل فاصله (مثلاً نزدیک‌ترین)
+        self.max_distance = 300  # حداکثر فاصله (مثلاً دورترین)
 
-    def distance(self, p1, p2):
-        return math.hypot(p2[0] - p1[0], p2[1] - p1[1])
+    def distance(self, point1, point2):
+        """
+        محاسبه فاصله اقلیدسی بین دو نقطه
+        هر نقطه به صورت (x, y)
+        """
+        x1, y1 = point1
+        x2, y2 = point2
+        return math.hypot(x2 - x1, y2 - y1)
 
-    def get_distance_percentage(self, lmList):
-        if not lmList or len(lmList) < 9:
-            return 0
+    def get_distance_percentage(self, hand_landmarks):
+        """
+        با فرض اینکه ورودی یک دست است
+        فاصله بین انگشت شست (ایندکس 4) و انگشت اشاره (ایندکس 8)
+        را می‌گیرد و آن را به درصد تبدیل می‌کند
+        """
+        thumb = hand_landmarks[4][1:]  # (x, y)
+        index_finger = hand_landmarks[8][1:]  # (x, y)
 
-        thumb_tip = lmList[4][1:]
-        index_tip = lmList[8][1:]
-        length = self.distance(thumb_tip, index_tip)
-
-        perc = np.interp(length, [self.min_dist, self.max_dist], [0, 100])
-        perc = max(0, min(perc, 100))
-
+        dist = self.distance(thumb, index_finger)
+        # تبدیل فاصله به درصد بین 0 تا 100
+        perc = (dist - self.min_distance) / (self.max_distance - self.min_distance) * 100
+        perc = max(0, min(perc, 100))  # محدود کردن به بازه 0 تا 100
         return perc
-
-    def detect_gesture(self, lmList):
-        if not lmList:
-            return "None"
-
-        thumb_tip = lmList[4][1:]
-        index_tip = lmList[8][1:]
-        length = self.distance(thumb_tip, index_tip)
-
-        if length < 40:
-            return "STOP"
-        return "None"
