@@ -3,7 +3,6 @@ from pydub import AudioSegment
 import librosa
 import soundfile as sf
 
-# تنظیم مسیرها
 INPUT_DIR = "music"
 OUTPUT_DIR = "music/processed"
 
@@ -36,7 +35,6 @@ def convert_voice(input_mp3_path, to_gender="female"):
     try:
         convert_mp3_to_wav(input_mp3_path, temp_wav)
 
-        # تعیین pitch مناسب
         pitch_steps = 4 if to_gender == "female" else -4
 
         change_pitch(temp_wav, processed_wav, pitch_steps)
@@ -53,7 +51,7 @@ def convert_voice(input_mp3_path, to_gender="female"):
 
 
 if __name__ == "__main__":
-    # تست: یک فایل خاص را به صدای زن تبدیل کن
+
     sample_file = os.path.join(INPUT_DIR, "song2.mp3")
     convert_voice(sample_file, to_gender="female")
     convert_voice(sample_file, to_gender="male")
