@@ -96,6 +96,9 @@ def main():
             last_freq_perc = freq_perc
             last_speed_perc = speed_perc
 
+            # 👇 بروزرسانی فایل موسیقی با نسخه متناسب فرکانس
+            music_ctrl.set_freq_perc(freq_perc)
+
             hand1_x = np.mean([pt[1] for pt in allHands[0]])
             hand2_x = np.mean([pt[1] for pt in allHands[1]])
 
@@ -130,14 +133,14 @@ def main():
                 gesture_text = "Play"
             elif fingers_count == 2:
                 if last_track_action != "next" or (current_time - last_action_time) > action_interval:
-                    music_ctrl.next_track()
+                    music_ctrl.next_track(freq_perc)
                     last_action_time = current_time
                     last_track_action = "next"
                     gesture_text = "Next Track"
                     gesture_text_show_time = current_time
             elif fingers_count == 3:
                 if last_track_action != "prev" or (current_time - last_action_time) > action_interval:
-                    music_ctrl.previous_track()
+                    music_ctrl.previous_track(freq_perc)
                     last_action_time = current_time
                     last_track_action = "prev"
                     gesture_text = "Previous Track"
@@ -148,7 +151,7 @@ def main():
                     four_held = True
                 elif current_time - four_hold_start >= 2 and (current_time - last_four_time > 2):
                     current_voice = "female" if current_voice == "male" else "male"
-                    music_ctrl.toggle_voice_gender()  # ✅ اعمال تغییر واقعی صدا
+                    music_ctrl.toggle_voice_gender()
                     voice_change_text = f"Voice changed to: {current_voice.upper()}"
                     voice_change_time = current_time
                     last_four_time = current_time
