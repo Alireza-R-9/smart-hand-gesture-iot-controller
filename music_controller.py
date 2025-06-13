@@ -1,4 +1,3 @@
-# music_controller.py
 import os
 import vlc
 
@@ -6,6 +5,8 @@ import vlc
 class MusicController:
     def __init__(self, music_folder):
         self.music_folder = music_folder
+        self.processed_folder = os.path.join(music_folder, "processed")
+        self.voice_gender = "male"
         self.player = vlc.MediaPlayer()
         self.track_list = self.load_tracks()
         self.track_index = 0
@@ -17,9 +18,16 @@ class MusicController:
     def load_tracks(self):
         return [file for file in os.listdir(self.music_folder) if file.endswith('.mp3')]
 
+    def get_processed_track_path(self, filename):
+        name, _ = os.path.splitext(filename)
+        processed_filename = f"{name}_{self.voice_gender}.mp3"
+        processed_path = os.path.join(self.processed_folder, processed_filename)
+        return processed_path if os.path.exists(processed_path) else os.path.join(self.music_folder, filename)
+
     def load_track(self, index):
         if 0 <= index < len(self.track_list):
-            track_path = os.path.join(self.music_folder, self.track_list[index])
+            original_file = self.track_list[index]
+            track_path = self.get_processed_track_path(original_file)
             self.player.set_media(vlc.Media(track_path))
 
     def play(self):
@@ -50,3 +58,9 @@ class MusicController:
     def set_playback_speed(self, speed):  # سرعت بین 0.5 تا 2.0
         if 0.5 <= speed <= 2.0:
             self.player.set_rate(speed)
+
+    def toggle_voice_gender(self):
+        self.voice_gender = "female" if self.voice_gender == "male" else "male"
+        print(f"[Voice Gender] Switched to {self.voice_gender}")
+        self.load_track(self.track_index)
+        self.play()

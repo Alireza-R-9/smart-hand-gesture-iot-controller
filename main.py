@@ -112,7 +112,6 @@ def main():
 
             music_ctrl.set_volume(vol_perc / 100)
 
-            # ⬇️ کنترل سرعت پخش موسیقی
             speed = np.interp(speed_perc, [0, 100], [0.5, 2.0])
             music_ctrl.set_playback_speed(speed)
 
@@ -143,12 +142,13 @@ def main():
                     last_track_action = "prev"
                     gesture_text = "Previous Track"
                     gesture_text_show_time = current_time
-            elif fingers_count == 4:
+            elif gesture_ctrl.is_four_fingers(allHands[0]):
                 if not four_held:
                     four_hold_start = current_time
                     four_held = True
                 elif current_time - four_hold_start >= 2 and (current_time - last_four_time > 2):
                     current_voice = "female" if current_voice == "male" else "male"
+                    music_ctrl.toggle_voice_gender()  # ✅ اعمال تغییر واقعی صدا
                     voice_change_text = f"Voice changed to: {current_voice.upper()}"
                     voice_change_time = current_time
                     last_four_time = current_time

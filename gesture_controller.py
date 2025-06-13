@@ -57,3 +57,7 @@ class GestureController:
                 fingers.append(0)
 
         return sum(fingers)
+
+    def is_four_fingers(self, hand_landmarks):
+
+        return self.count_fingers(hand_landmarks) == 4
